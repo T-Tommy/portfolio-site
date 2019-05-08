@@ -4,7 +4,7 @@
     padding: 0;
 }
 body {
-    background: rgb(2, 108, 134);
+    background:white;
     display: flex;
     flex-direction: column;
     height: 100vh;
