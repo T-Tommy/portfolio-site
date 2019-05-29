@@ -1,37 +1,38 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 body {
-    background:white;
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-    justify-content: center;
-    align-items: stretch;
+  background:white;
 }
 
 header {
-    height: 40vh;
-    background: #283C5A;
-    border-top: 1px solid  #EBAF5A;
-    border-bottom: 1px solid  #EBAF5A;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
+  height: 40vh;
+  background: #283C5A;
+  border-bottom: 1px solid  #EBAF5A;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 header img {
-    height: 20vh;
-    border: 1px solid  #EBAF5A;
+  height: 20vh;
 }
 
 header h1 {
-    font-size: 2rem;
-    color: white;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    letter-spacing: 3px;
-    text-align: center;
+  font-size: 3.5vh;
+  color: #EBAF5A;
+  font-family: Corbel;
+  letter-spacing: 3px;
+  text-align: center;
+  letter-spacing: 1.5vh;
+}
+
+header h2 {
+  color: white;
+  font-size: 2.5vh;
+  font-family: Comfortaa;
+  letter-spacing: .5vh;
 }
