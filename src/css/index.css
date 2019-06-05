@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  justify-content: center;
+  background: #EBAF5A;
+}
+
+p {
+  text-align: center;
+  width: 50vw;
+  max-width: 400px;
+  font-family: Comfortaa;
+  font-size: 1.2rem;
+  margin: 1em;
+}
