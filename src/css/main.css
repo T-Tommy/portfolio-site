@@ -9,6 +9,11 @@
   src: url(../../assets/Comfortaa_Regular.ttf);
 }
 
+@font-face {
+  font-family: Corbel;
+  src: url(../../assets/corbel.ttf);
+}
+
 header {
   height: 40vh;
   min-height: 15em;
